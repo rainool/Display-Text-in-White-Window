@@ -1,4 +1,4 @@
-# textInWindow
+# Display Text in White Window
 This is a small C# experimental program I made to better understand some of the content taught in my SIT102 unit.
 
 This program is made based off of the packages and terminal that my University taught from. 
